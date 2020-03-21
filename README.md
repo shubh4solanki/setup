@@ -1,6 +1,18 @@
-# For Ubuntu 
+# For Ubuntu users
 
 ## In Office machine
+
+The installed software in office machine
+1. x11vnc
+2. anydesk
+
+## In Your Home machine
+
+You need to install following software in your home machine
+1. vnc viewer
+2. anydesk
+
+## Steps
 
 1. try to connect first with VNC
 
