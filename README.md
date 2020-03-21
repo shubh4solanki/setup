@@ -14,24 +14,24 @@ You need to install following software in your home machine
 
 ## Steps
 
-1. try to connect first with VNC
+1. Try to connect first with VNC
 
-2. if vnc failed then try to connect with any desk
+2. If vnc failed then try to connect with any desk
 
-3. use any desk to run vnc
+3. Use any desk to run vnc
 
-4. use file which is on desktop with name "vnc" or you can use starup application to get command
+4. Use file which is on desktop with name "vnc" or you can use starup application to get command
 
-5. copy the command 
+5. Copy the command 
 
-6. open terminal
+6. Open terminal
 
-7. past command and press enter and don't close terminal
+7. Past command and press enter and don't close terminal
 
-8. not try to connect with vnc viewer with <your_public_ip>:<emp_id> 
+8. Not try to connect with vnc viewer with <your_public_ip>:<emp_id> 
 
-9. if not connecting then disconnect anydesk and try to connect again vnc
+9. If not connecting then disconnect anydesk and try to connect again vnc
 
-10. if vnc connect successful then disconnect anydesk(don't close only disconnect)
+10. If vnc connect successful then disconnect anydesk(don't close only disconnect)
 
-11. keep both application
+11. Keep both application and use it as per your comfort
