@@ -16,9 +16,9 @@ You need to install following software in your home machine
 
 1. Try to connect first with VNC
 
-2. If vnc failed then try to connect with any desk
+2. If vnc failed then try to connect with anydesk
 
-3. Use any desk to run vnc
+3. Next steps to use anydesk to run vnc
 
 4. Use file which is on desktop with name "vnc" or you can use starup application to get command
 
